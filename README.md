@@ -25,4 +25,4 @@ scala-cli run -M example .
 
 Which should show you the following:
 
-
+<img width="512" alt="Screenshot 2023-06-18 at 13 57 52" src="https://github.com/ckipp01/scala-processing-giter8/assets/13974112/0c1c8c23-3462-46e9-a32c-a95eae3f65ec">
