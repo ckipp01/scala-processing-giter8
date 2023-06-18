@@ -2,7 +2,7 @@ import processing.core
 import processing.core.*
 import processing.core.PApplet
 
-@main def run(): Unit = PApplet.main("Main")
+@main def example(): Unit = PApplet.main("Main")
 
 class Main extends PApplet:
 
